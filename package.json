@@ -1,0 +1,17 @@
+{
+  "name": "learn2scrape",
+  "version": "1.0.0",
+  "description": "A playlist to practice web scraping in nodejs.",
+  "main": "scrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scrape",
+    "crawler",
+    "practice",
+    "nodejs"
+  ],
+  "author": "harsh vairagi",
+  "license": "ISC"
+}
