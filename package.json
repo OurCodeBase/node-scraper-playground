@@ -13,5 +13,9 @@
     "nodejs"
   ],
   "author": "harsh vairagi",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "request": "^2.88.2"
+  }
 }
